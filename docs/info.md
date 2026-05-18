@@ -27,9 +27,3 @@ The design includes output enable registers, PWM enable registers, and an 8-bit 
 ## How to test
 
 The design can be tested using the Cocotb testbench in the `test/` directory.
-
-From the repository root, run:
-
-```bash
-cd test
-make
